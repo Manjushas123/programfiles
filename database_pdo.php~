@@ -1,4 +1,4 @@
- <?php
+<?php
 require 'dbnew.html';
 
 $host    = "localhost";

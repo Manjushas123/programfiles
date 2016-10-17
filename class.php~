@@ -10,7 +10,6 @@ class Car
 
 //We pass the value of the variable once we create the object
 $car1 = new Car('mercedes');
-
 echo $car1->getCarModel();
 ?> 
  
